@@ -1,0 +1,13 @@
+{
+    "name": "Check Runner",
+    "description": "Beschrijving...",
+    "iconName": "beaker",
+    "categories": [
+        "General"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
