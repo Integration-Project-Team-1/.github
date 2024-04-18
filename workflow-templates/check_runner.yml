@@ -5,7 +5,10 @@ on:
 
 jobs:
   check-runner:
-    runs-on: self-hosted
+    runs-on: 
+      self-hosted
+      linux
+      X64
     steps:
       - name: Check Runner
         run: echo "Runner is working"
