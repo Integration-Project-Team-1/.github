@@ -7,7 +7,8 @@ jobs:
   check-runner:
     runs-on: 
       self-hosted
-      integration-project-dev
+      linux
+      X64
     steps:
       - name: Check Runner
         run: echo "Runner is working"
