@@ -1,0 +1,5 @@
+{
+    "name": "Check Runner",
+    "description": "Een test voor te zien of er iets op de server stdout geprint kan worden.",
+    "iconName": "beaker",
+}
